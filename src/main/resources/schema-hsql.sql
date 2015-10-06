@@ -1,0 +1,1 @@
+CREATE TABLE utilisateur (nom VARCHAR(50), prenom VARCHAR(50))
